@@ -7,4 +7,4 @@
 
 
 
-![alt text](https://github.com/SurajJayakumar/procedural_assets/blob/main/image.png?raw=true)
+![screenshot of procedural asset generator](image.png)
