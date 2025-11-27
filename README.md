@@ -7,4 +7,4 @@
 
 
 
-![alt text](https://github.com/SurajJayakumar/procedural_assets/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/SurajJayakumar/procedural_assets/blob/main/image.png?raw=true)
